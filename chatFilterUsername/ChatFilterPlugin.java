@@ -22,9 +22,9 @@ import org.apache.commons.lang3.StringUtils;
 import javax.inject.Inject;
 
 @PluginDescriptor(
-        name = "Account",
-        description = "Sync RuneLite config settings with your Google account",
-        tags = {"external", "google", "integration"},
+        name = "NAME HIDER!",
+        description = "Hide that name",
+        tags = {"name hider"},
         enabledByDefault = true
 )
 public class ChatFilterPlugin extends Plugin {
